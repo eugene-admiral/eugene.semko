@@ -1,6 +1,6 @@
 import hashlib
 
-my_name = "d.galamaga"
+my_name = "semko.zhenya"
 
 m = hashlib.md5()
 m.update(my_name.encode())
